@@ -1,2 +1,2 @@
-### threading-homewort
+### threading-homework
 домашняя работа по threading
